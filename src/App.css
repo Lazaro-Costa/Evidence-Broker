@@ -4,3 +4,12 @@
   padding: 2rem;
   text-align: center;
 }
+.box{
+  display: flex;
+  padding: 2rem;
+  flex-direction: column;
+  justify-content: center;  
+}
+/* form{
+  border: 1px solid red;
+} */
